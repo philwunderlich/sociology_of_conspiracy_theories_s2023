@@ -44,13 +44,24 @@ slide-level: 3
 
 -   Think of one or two examples of conspiracy theories. Why do you think people believe in them?
 
+::: notes
+-   7-10 minutes to discuss in groups of 2-3
+
+```{=html}
+<!-- -->
+```
+-   collect answers
+:::
+
 ## Learning goals
 
--   Explore the research field of emotional stratification.
+-   What are conspiracy theories? How can they be defined in the social sciences?
 
-    -   How does social structure affect emotions?
+-   Who believes in conspiracy theories? What are subjective motives and micro-level predictors?
 
-    -   How do emotions reproduce social structure?
+-   Which macro-level and cultural or political factors contribute to conspiracy beliefs?
+
+-   What are consequences of conspiracy theories? How do they produce exclusions and antagonisms?
 
 -   *Focus on writing*: How to author papers and provide helpful feedback.
 
