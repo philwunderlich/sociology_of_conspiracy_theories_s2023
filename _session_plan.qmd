@@ -1,7 +1,3 @@
----
-title: "session plan"
----
-
 # Session plan
 
 ::: callout-note
