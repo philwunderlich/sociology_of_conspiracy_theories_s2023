@@ -4,7 +4,8 @@ subtitle: "Advanced seminar"
 date: "Summer term 2023"
 author: Philipp Wunderlich
 format:
-  html: default
+  html:
+    toc: true
   pdf: default
 editor: visual
 embed-resources: true
