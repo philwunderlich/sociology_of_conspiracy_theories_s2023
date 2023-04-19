@@ -40,6 +40,10 @@ Butter, M., & Knight, P. (Eds.). (2020). Routledge Handbook of Conspiracy Theori
 
 -   Requirements
 
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-1/SocConspiracy1_Intro-slides.qmd)
+:::
+
 ## Approaches to researching conspiracy theories
 
 In the following four sessions, basic theoretical or empirical approaches to studying conspiracy theories will be revisited.
