@@ -8,5 +8,5 @@ jobs:
       - name: "checkout"
         uses: actions/checkout@v2
       - name: "render quarto"
-        uses: pommevilla/quarto-render@render@v2
+        uses: quarto-dev/quarto-actions/render@v2
 
