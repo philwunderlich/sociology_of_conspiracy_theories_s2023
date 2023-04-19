@@ -3,9 +3,10 @@ title: "Syllabus - Sociology of Conspiracy Theories"
 subtitle: "Advanced seminar"
 date: "Summer term 2023"
 author: Philipp Wunderlich
-format:
-  html:
+format: 
+  html: 
     toc: true
+    toc-expand: 2
   pdf: default
 editor: visual
 embed-resources: true
