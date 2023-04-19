@@ -1,5 +1,12 @@
 on:
-  workflow_dispatch:
+  workflow_dispatch
 
-- name: Render Quarto Project
-  uses: quarto-dev/quarto-actions/render@v2
+jobs:
+  quarto-render-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "checkout"
+        uses: actions/checkout@v2
+      - name: "render quarto"
+        uses: pommevilla/quarto-render@render@v2
+
