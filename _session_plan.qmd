@@ -116,6 +116,8 @@ COVID-19, public health and compliance:
 
 -   Peitz, L., Lalot, F., Douglas, K. M., Sutton, R., & Abrams, D. (2021). COVID-19 conspiracy theories and compliance with governmental restrictions: The mediating roles of anger, anxiety, and hope. Journal of Pacific Rim Psychology, 15, 18344909211046650. <https://doi.org/10.1177/18344909211046646>
 
+
+
 Mass media and online misinformation:
 
 -   $(\star)$ Bronner, G. (2015). Why are conspiracy theories doing so well? The case of Charlie Hebdo. Diogenes, 62, 8--16. <https://doi.org/10.1177/0392192120924532>
@@ -129,6 +131,7 @@ The alt-right and QAnon:
 -   $(\star)$ Bleakley, P. (2021). Panic, pizza and mainstreaming the alt-right: A social media analysis of Pizzagate and the rise of the QAnon conspiracy. Current Sociology, 00113921211034896. <https://doi.org/10.1177/00113921211034896>
 
 -   DiMaggio, A. R. (2022). Conspiracy Theories and the Manufacture of Dissent: QAnon, the 'Big Lie', Covid-19, and the Rise of Rightwing Propaganda. Critical Sociology, 48(6), 1025--1048. <https://doi.org/10.1177/08969205211073669>
+
 
 Political ideology and populism:
 
@@ -150,6 +153,7 @@ Turkish case:
 
 -   $(\star)$ Nefes, T. S. (2017). The impacts of the Turkish government's conspiratorial framing of the Gezi Park protests. Social Movement Studies, 16(5), 610--622. <https://doi.org/10.1080/14742837.2017.1319269>
 
+
 Post-soviet cases:
 
 -   $(\star)$ Yablokov, I. (2020). Conspiracy theories in Putin's russia---The case of the 'new World order.' In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 582--595). Routledge. <https://doi.org/10.4324/9780429452734>
@@ -164,6 +168,7 @@ Gender and sexuality
 
 -   Thiem, A. (2020). Conspiracy theories and gender and sexuality. In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 292--303). Routledge. <https://doi.org/10.4324/9780429452734>
 
+
 Antisemitism:
 
 -   $(\star)$ Simonsen, K. B. (2020). Antisemitism and Conspiracism. In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 357--370). Routledge. <https://doi.org/10.4324/9780429452734>
@@ -172,7 +177,7 @@ Antisemitism:
 
 ### 11) Modernity and Counter-knowledge (2023-07-06)
 
-Modernity and post-truth (Das gehört eventuell eher zu den Intro sessions)
+Modernity and post-truth
 
 -   $(\star)$ Aupers, S. (2012). 'Trust no one': Modernization, paranoia and conspiracy culture. European Journal of Communication, 27(1), 22--34. <https://doi.org/10.1177/0267323111433566>
 
