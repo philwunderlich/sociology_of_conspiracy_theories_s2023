@@ -5,6 +5,12 @@ jobs:
   quarto-render-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Restore packages
+        shell: Rscript {0}
+        run: |
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore()
+          
       - name: "checkout"
         uses: actions/checkout@v3
         
