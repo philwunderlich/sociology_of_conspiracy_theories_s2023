@@ -1,3 +1,7 @@
+---
+title: Advanced Seminar: Sociolog of Conspiracy Theories
+---
+
 # Course
 
 [Syllabus](syllabus.html)
