@@ -65,6 +65,14 @@ slide-level: 3
 
 -   *Focus on writing*: How to author papers and provide helpful feedback.
 
+# Course plan
+
+## Syllabus
+
+[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/syllabus.html)
+
+{{< include ../_session_plan.qmd >}}
+
 # Requirements
 
 -   Regular participation
@@ -107,14 +115,6 @@ slide-level: 3
 
 -   Submit final paper until September 30st. (\>3.000 words)
 
-# Course plan
-
-## Syllabus
-
-[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/syllabus.html)
-
-{{< include ../_session_plan.qmd >}}
-
 # Technicalities
 
 ## Blackboard
@@ -127,11 +127,20 @@ slide-level: 3
 
     -   Submission of research questions, first drafts, and final papers
 
--   [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
-
     -   self-enrollment is enabled.
 
     -   external students need to register as [auditors](https://www.fu-berlin.de/en/studium/studienorganisation/immatrikulation/weitere-angebote/nebenhoerer/index.html)
+
+## Blackboard self-enrollment
+
+```{r}
+#| echo: false
+#| message: false
+library(qrcode)
+plot(qr_code('https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1'))
+```
+
+Or search for the course ID: [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
 
 ## Literature
 
@@ -145,13 +154,4 @@ slide-level: 3
 
 # Questions?
 
-## Blackboard self-enrollment
-
-```{r}
-#| echo: false
-#| message: false
-library(qrcode)
-plot(qr_code('https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1'))
-```
-
-Or search for the course ID: [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
+## 
