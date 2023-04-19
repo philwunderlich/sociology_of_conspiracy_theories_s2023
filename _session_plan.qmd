@@ -1,0 +1,197 @@
+# Session plan
+
+::: callout-note
+Mandatory readings are marked with a star $(\star)$.
+:::
+
+::: callout-note
+Many of the course readings are chapters taken from the following handbook:
+
+Butter, M., & Knight, P. (Eds.). (2020). Routledge Handbook of Conspiracy Theories. Routledge. <https://doi.org/10.4324/9780429452734>
+:::
+
+## Overview
+
+1.  General approaches (4 weeks)
+
+    -   Weekly reading responses
+
+    -   Develop research questions!
+
+2.  Writing task
+
+3.  Studies & applications (5 weeks)
+
+    -   Weekly reading responses
+
+    -   Write first drafts!
+
+4.  Paper drafts (2 weeks)
+
+5.  Exam / papers
+
+## Introduction
+
+### 1) Introduction (2023-04-20)
+
+-   Introduction to the topic.
+
+-   Syllabus
+
+-   Requirements
+
+## Approaches to researching conspiracy theories
+
+In the following four sessions, basic theoretical or empirical approaches to studying conspiracy theories will be revisited.
+
+-   Read the mandatory readings and submit reading responses
+
+::: {.notes .content-visible when-format="revealjs"}
+-   Each session will start with input from the lecturer and a class discussion, followed by some individual or group tasks.
+-   It is necessary to read the basic texts to be able to complete the class tasks successfully.
+-   As this is a writing-focused seminar, the first four sessions are supposed to lay the groundwork for individual essays that are to be entered in the following.
+:::
+
+### 2) Traditional accounts (2023-04-27)
+
+$(\star)$ Hofstadter, R. (1996). *The paranoid style in American politics, and other essays* (1st Harvard University Press pbk. ed). Harvard University Press. <https://faculty.washington.edu/jwilker/353/Hofstadter.pdf>
+
+### 3) Micro-level: Psychological motives (2023-05-04)
+
+$(\star)$ Douglas, K. M., Cichocka, A., & Sutton, R. M. (2020). Motivations, Emotions and Belief in Conspiracy Theories. In *Routledge Handbook of Conspiracy Theories*. Routledge.
+
+### 4) Macro-level: Structural predictors (2023-05-11)
+
+$(\star)$ Smallpage, S. M., Drochon, H., Uscinski, J. E., & Klofstad, C. (2020). Who are the Conspiracy Theorists?: Demographics and conspiracy theories. In Routledge Handbook of Conspiracy Theories. Routledge.
+
+### 5) Cultural perspectives: Identification and labeling (2023-05-25)
+
+$(\star)$ Husting, G., & Orr, M. (2007). Dangerous Machinery: "Conspiracy Theorist" as a Transpersonal Strategy of Exclusion. Symbolic Interaction, 30(2), 127--150. <https://doi.org/10.1525/si.2007.30.2.127>
+
+Harambam, J., & Aupers, S. (2017). 'I Am Not a Conspiracy Theorist': Relational Identifications in the Dutch Conspiracy Milieu. Cultural Sociology, 11(1), 113--129. <https://doi.org/10.1177/1749975516661959>
+
+<!-- Tasks: -->
+
+<!-- -   Outline a 750 words theory essay (in TNR, double-spaced) for one of the given questions. -->
+
+<!-- -   \@home complete the essay **until next session** for peer-review. -->
+
+------------------------------------------------------------------------
+
+::: callout-important
+## Assignment
+
+Post 750 words essay to discussion forum
+:::
+
+## Collaborative writing practice
+
+### 6) Feedback & writing practice (2023-06-01)
+
+-   Get together in groups of 3-4 and read each other's essays.
+
+    -   Provide structured feedback to each other.
+
+::: callout-note
+## Task
+
+You have two weeks to incorporate the feedback and upload finalized essays to the discussion forum.
+:::
+
+## Studies and applications
+
+In the following 5 sessions, we will cover specific empirical cases and theoretical issues relevant to the sociological research of conspiracy theories.
+
+One goal of this block of sessions is to map out the field of research and collect ideas for final seminar papers / essays.
+
+### 7) COVID-19 / Mass media and misinformation (2023-06-08)
+
+COVID-19, public health and compliance:
+
+-   $(\star)$ Imhoff, R., & Lamberty, P. (2020). A Bioweapon or a Hoax? The Link Between Distinct Conspiracy Beliefs About the Coronavirus Disease (COVID-19) Outbreak and Pandemic Behavior. Social Psychological and Personality Science, 11, 1110--1118. <https://doi.org/10.1177/1948550620934692>
+
+-   Peitz, L., Lalot, F., Douglas, K. M., Sutton, R., & Abrams, D. (2021). COVID-19 conspiracy theories and compliance with governmental restrictions: The mediating roles of anger, anxiety, and hope. Journal of Pacific Rim Psychology, 15, 18344909211046650. <https://doi.org/10.1177/18344909211046646>
+
+Mass media and online misinformation:
+
+-   $(\star)$ Bronner, G. (2015). Why are conspiracy theories doing so well? The case of Charlie Hebdo. Diogenes, 62, 8--16. <https://doi.org/10.1177/0392192120924532>
+
+-   Rooke, M. (2021). Alternative media framing of COVID-19 risks. Current Sociology, 69(4), 584--602. <https://doi.org/10.1177/00113921211006115>
+
+### 8) Alt-right conspiracy theories / Antisemitism (**2023-06-15**)
+
+The alt-right and QAnon:
+
+-   $(\star)$ Bleakley, P. (2021). Panic, pizza and mainstreaming the alt-right: A social media analysis of Pizzagate and the rise of the QAnon conspiracy. Current Sociology, 00113921211034896. <https://doi.org/10.1177/00113921211034896>
+
+-   DiMaggio, A. R. (2022). Conspiracy Theories and the Manufacture of Dissent: QAnon, the 'Big Lie', Covid-19, and the Rise of Rightwing Propaganda. Critical Sociology, 48(6), 1025--1048. <https://doi.org/10.1177/08969205211073669>
+
+Political ideology and populism:
+
+-   van der Linden, S., Panagopoulos, C., Azevedo, F., & Jost, J. T. (2021). The Paranoid Style in American Politics Revisited: An Ideological Asymmetry in Conspiratorial Thinking. Political Psychology, 42(1), 23--51. <https://doi.org/10.1111/pops.12681>
+
+-   Bergmann, E., & Butter, M. (2020). Conspiracy theory and populism. In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 292--303). Routledge. <https://doi.org/10.4324/9780429452734>
+
+------------------------------------------------------------------------
+
+::: callout-important
+## Assignment
+
+Submit revised 750 words essay
+:::
+
+### 9) CTs in authoritarian regimes (2023-06-22)
+
+Turkish case:
+
+-   $(\star)$ Nefes, T. S. (2017). The impacts of the Turkish government's conspiratorial framing of the Gezi Park protests. Social Movement Studies, 16(5), 610--622. <https://doi.org/10.1080/14742837.2017.1319269>
+
+Post-soviet cases:
+
+-   $(\star)$ Yablokov, I. (2020). Conspiracy theories in Putin's russia---The case of the 'new World order.' In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 582--595). Routledge. <https://doi.org/10.4324/9780429452734>
+
+-   Ortmann, S., & Heathershaw, J. (2012). Conspiracy Theories in the Post-Soviet Space. The Russian Review, 71(4), 551--564. https://doi.org/10.1111/j.1467-9434.2012.00668.x
+
+### 10) Gender and Sexuality / Antisemitism (**2023-06-29**)
+
+Gender and sexuality
+
+-   $(\star)$ Goetz, J. (2021). 'The Great Replacement' -- Reproduction and population policies of the far right, taking the Identitarians as an example. 16.
+
+-   Thiem, A. (2020). Conspiracy theories and gender and sexuality. In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 292--303). Routledge. <https://doi.org/10.4324/9780429452734>
+
+Antisemitism:
+
+-   $(\star)$ Simonsen, K. B. (2020). Antisemitism and Conspiracism. In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 357--370). Routledge. <https://doi.org/10.4324/9780429452734>
+
+-   Allington, D., & Joshi, T. (2020). "What Others Dare Not Say": An Antisemitic Conspiracy Fantasy and Its YouTube Audience. Journal of Contemporary Antisemitism, 3(1), 35--54. <https://doi.org/10.26613/jca/3.1.42>
+
+### 11) Modernity and Counter-knowledge (**2023-07-06**)
+
+Modernity and post-truth (Das gehört eventuell eher zu den Intro sessions)
+
+-   $(\star)$ Aupers, S. (2012). 'Trust no one': Modernization, paranoia and conspiracy culture. European Journal of Communication, 27(1), 22--34. <https://doi.org/10.1177/0267323111433566>
+
+-   Lewandowsky, S., Ecker, U. K. H., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth" era. Journal of Applied Research in Memory and Cognition, 6(4), 353--369. <https://doi.org/10.1016/j.jarmac.2017.07.008>
+
+Counter knowledge
+
+-   $(\star)$ Gosa, T. L. (2011). Counterknowledge, racial paranoia, and the cultic milieu: Decoding hip hop conspiracy theory. Poetics, 39(3), 187--204. <https://doi.org/10.1016/j.poetic.2011.03.003>
+
+## Research questions and seminar papers / essays
+
+In this last block of sessions, students will work individually and collectively towards their seminar papers or final essays.
+
+### 12) Research questions (**2023-07-13**)
+
+-   Students work in groups on their research questions. Then each groups briefly presents the research questions to the others for discussion.
+
+-   Students can use the remaining time to work on abstracts.
+
+-   \@home work on abstract and introduction
+
+### 13) Term paper writing session (**2023-07-20**)
+
+-   Peer review of abstracts.
+
+-   Time for questions.

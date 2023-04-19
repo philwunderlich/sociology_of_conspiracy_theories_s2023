@@ -3,20 +3,30 @@ title: "Course Introduction"
 subtitle: "30228 - Sociology of conspiracy theories"
 author: "Philipp Wunderlich"
 date: "summer-term 2023"
-format: revealjs
+format:
+  revealjs:
+    scrollable: true
+    preview-links: true
 editor: visual
 embed-resources: true
+slide-level: 3
 ---
 
 # Introduction
 
+::: notes
+-   ask students to introduce themselves!
+
+    -   name
+
+    -   study program / background
+
+    -   interest in the topic
+:::
+
 . . .
 
 1.  Introduction to the topic.
-
-    1.  What are conspiracy theories?
-
-    2.  Why are they relevant?
 
 2.  Learning goals
 
@@ -28,13 +38,14 @@ embed-resources: true
 
 # This seminar
 
-## Interest & preconceptions
+## Preconceptions
 
-What are you expecting from the course? What is your *personal* interest (in light of your previous studies)?
+-   What is a conspiracy theory? How would you define the term?
+
+-   Think of one or two examples of conspiracy theories. Why do you think people believe in them?
 
 ## Learning goals
 
-::: incremental
 -   Explore the research field of emotional stratification.
 
     -   How does social structure affect emotions?
@@ -42,11 +53,9 @@ What are you expecting from the course? What is your *personal* interest (in lig
     -   How do emotions reproduce social structure?
 
 -   *Focus on writing*: How to author papers and provide helpful feedback.
-:::
 
 # Requirements
 
-::: incremental
 -   Regular participation
 
 -   Active participation
@@ -56,21 +65,17 @@ What are you expecting from the course? What is your *personal* interest (in lig
     -   Writing tasks (RQ, first draft)
 
 -   Grade (Seminar paper / oral exam)
-:::
 
 ## Regular participation
 
-::: incremental
 -   You may miss up to 2 sessions without a doctor's note.
 
 -   I will not control your presence regularly, but:
 
 -   You have to attend regularly, to be able to fulfill active participation
-:::
 
 ## Active participation
 
-::: incremental
 -   Reading responses have to be uploaded each Sunday (end of day).
 
     -   Miss no more than 2.
@@ -78,11 +83,9 @@ What are you expecting from the course? What is your *personal* interest (in lig
 -   Submission of research question (31.5.2023)
 
 -   Submission of first draft (750-1500 words, 5.7.2023)
-:::
 
 ## Module exam
 
-::: incremental
 -   Either seminar paper or oral exam.
 
     -   Seminar paper recommended in this writing-focused course.
@@ -92,29 +95,14 @@ What are you expecting from the course? What is your *personal* interest (in lig
 -   Seminar papers will be developed throughout the course
 
 -   Submit final paper until September 30st. (\>3.000 words)
-:::
 
 # Course plan
 
-## Overview
-
-1.  General approaches (4 weeks)
-
-    -   Weekly reading responses
-
-    -   Develop research questions!
-
-2.  Studies & applications (5 weeks)
-
-    -   Weekly reading responses
-
-    -   Write first drafts!
-
-3.  Peer review (2 weeks)
-
-4.  Seminar paper
-
 ## Syllabus
+
+[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/syllabus.html)
+
+{{< include ../_session_plan.qmd >}}
 
 # Technicalities
 
@@ -128,7 +116,7 @@ What are you expecting from the course? What is your *personal* interest (in lig
 
     -   Submission of research questions, first drafts, and final papers
 
--   [Blackboard: POLSOZ_H\_30208_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_5422739_1&course_id=_182808_1&mode=view#_5422739_1 "Blackboard course")
+-   [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
 
     -   self-enrollment is enabled.
 
@@ -146,6 +134,13 @@ What are you expecting from the course? What is your *personal* interest (in lig
 
 # Questions?
 
-## Blackboard login
+## Blackboard self-enrollment
 
-![](images/qrcode_fu-berlin.blackboard.com.png)
+```{r}
+#| echo: false
+#| message: false
+library(qrcode)
+plot(qr_code('https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1'))
+```
+
+Or search for the course ID: [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
