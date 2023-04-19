@@ -49,9 +49,8 @@ slide-number: true
 ::: notes
 -   7-10 minutes to discuss in groups of 2-3
 
-```{=html}
 <!-- -->
-```
+
 -   collect answers
 :::
 
