@@ -158,4 +158,12 @@ Or search for the course ID: [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.
 
 # Questions?
 
-## 
+## Review these slides:
+
+```{r}
+#| echo: false
+#| message: false
+library(qrcode)
+plot(qr_code('https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/session-1/SocConspiracy1_Intro-slides.html#/title-slide'))
+
+```
