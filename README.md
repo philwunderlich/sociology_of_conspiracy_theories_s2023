@@ -1,6 +1,6 @@
 # Course
 
-[Syllabus](syllabus.html)
+[Syllabus](_output/syllabus.html)
 
 ## Slides
 
