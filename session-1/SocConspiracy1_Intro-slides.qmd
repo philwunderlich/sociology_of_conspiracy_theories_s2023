@@ -3,6 +3,7 @@ title: "Course Introduction"
 subtitle: "30228 - Sociology of conspiracy theories"
 author: "Philipp Wunderlich"
 date: "summer-term 2023"
+institute: "Institut of sociology, Freie Universität Berlin"
 format:
   revealjs:
     scrollable: true
@@ -10,6 +11,7 @@ format:
 editor: visual
 embed-resources: true
 slide-level: 3
+slide-number: true
 ---
 
 # Introduction
@@ -81,7 +83,7 @@ slide-level: 3
 
     -   Mandatory reading and reading responses
 
-    -   Writing tasks (RQ, first draft)
+    -   Writing tasks (theory essay, 1st paper draft)
 
 -   Grade (Seminar paper / oral exam)
 
@@ -105,11 +107,13 @@ slide-level: 3
 
 ## Module exam
 
--   Either seminar paper or oral exam.
+-   In M5: either seminar paper or oral exam.
 
     -   Seminar paper recommended in this writing-focused course.
 
     -   Oral exam: Your term paper draft will serve as the basis of the oral exam.
+
+-   in M8: ungraded seminar paper (optional)
 
 -   Seminar papers will be developed throughout the course
 
@@ -131,7 +135,7 @@ slide-level: 3
 
     -   external students need to register as [auditors](https://www.fu-berlin.de/en/studium/studienorganisation/immatrikulation/weitere-angebote/nebenhoerer/index.html)
 
-## Blackboard self-enrollment
+## self-enrollment
 
 ```{r}
 #| echo: false
