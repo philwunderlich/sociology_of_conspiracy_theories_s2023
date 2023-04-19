@@ -1,5 +1,5 @@
 ---
-title: Advanced Seminar: Sociolog of Conspiracy Theories
+title: "Advanced Seminar: Sociology of Conspiracy Theories"
 ---
 
 # Course
