@@ -70,7 +70,7 @@ slide-number: true
 
 ## Syllabus
 
-[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/syllabus.html)
+[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/docs/syllabus.html)
 
 {{< include ../_session_plan.qmd >}}
 

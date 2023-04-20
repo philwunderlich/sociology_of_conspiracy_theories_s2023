@@ -41,7 +41,7 @@ Butter, M., & Knight, P. (Eds.). (2020). Routledge Handbook of Conspiracy Theori
 -   Requirements
 
 ::: {.content-visible unless-format="revealjs"}
-[Slides](session-1/SocConspiracy1_Intro-slides.html)
+[Slides](docs/session-1/SocConspiracy1_Intro-slides.html)
 :::
 
 ## Approaches to researching conspiracy theories
