@@ -58,21 +58,33 @@ slide-number: true
 
 ## Learning goals
 
+-   What are conspiracy theories?
+
+-   Who believes in conspiracy theories?
+
+    -   What are *psychological motives* and micro-level predictors?
+
+    -   Which *macro-level* and *cultural* or *political* factors contribute to conspiracy beliefs?
+
+-   What are consequences of conspiracy theories?
+
+-   Focus on *writing*.
+
+::: notes
 -   What are conspiracy theories? How can they be *defined* in the social sciences?
 
--   Who believes in conspiracy theories? What are *psychological motives* and micro-level predictors?
+-   Who believes in conspiracy theories?
 
--   Which *macro-level* and *cultural* or *political* factors contribute to conspiracy beliefs?
+    -   What are *psychological motives* and micro-level predictors?
+
+    -   Which *macro-level* and *cultural* or *political* factors contribute to conspiracy beliefs?
 
 -   What are consequences of conspiracy theories? How do they produce *exclusions* and *antagonisms*?
 
 -   Focus on *writing*: How to author papers and provide helpful feedback.
+:::
 
 # Course plan
-
-## Syllabus
-
-[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/docs/syllabus.html)
 
 {{< include ../_session_plan.qmd >}}
 
@@ -133,6 +145,10 @@ slide-number: true
 -   Submit final paper until September 30st. (\>3.000 words, excluding references, tables, title page)
 
 # Technicalities
+
+## Syllabus
+
+[Link](https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/docs/syllabus.html)
 
 ## Blackboard
 
