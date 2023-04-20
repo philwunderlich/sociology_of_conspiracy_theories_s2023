@@ -1,9 +1,9 @@
 ---
 title: "Course Introduction"
-subtitle: "30228 - Sociology of conspiracy theories"
+subtitle: "30228 - Sociology of conspiracy theories - summer-term 2023"
 author: "Philipp Wunderlich"
-date: "summer-term 2023"
-institute: "Institut of sociology, Freie Universität Berlin"
+date: 2023-04-20
+institute: "Institute of sociology, Freie Universität Berlin"
 format:
   revealjs:
     scrollable: true
@@ -17,6 +17,8 @@ slide-number: true
 # Introduction
 
 ::: notes
+-   Introduction lecturer
+
 -   ask students to introduce themselves!
 
     -   name
@@ -28,7 +30,7 @@ slide-number: true
 
 . . .
 
-1.  Introduction to the topic.
+1.  Introduction to the topic
 
 2.  Learning goals
 
@@ -56,15 +58,15 @@ slide-number: true
 
 ## Learning goals
 
--   What are conspiracy theories? How can they be defined in the social sciences?
+-   What are conspiracy theories? How can they be *defined* in the social sciences?
 
--   Who believes in conspiracy theories? What are subjective motives and micro-level predictors?
+-   Who believes in conspiracy theories? What are *psychological motives* and micro-level predictors?
 
--   Which macro-level and cultural or political factors contribute to conspiracy beliefs?
+-   Which *macro-level* and *cultural* or *political* factors contribute to conspiracy beliefs?
 
--   What are consequences of conspiracy theories? How do they produce exclusions and antagonisms?
+-   What are consequences of conspiracy theories? How do they produce *exclusions* and *antagonisms*?
 
--   *Focus on writing*: How to author papers and provide helpful feedback.
+-   Focus on *writing*: How to author papers and provide helpful feedback.
 
 # Course plan
 
@@ -76,13 +78,19 @@ slide-number: true
 
 # Requirements
 
--   Regular participation
+-   Regular participation credit
 
--   Active participation
+    -   Attend all class meetings.
 
-    -   Mandatory reading and reading responses
+-   Active participation credit
 
-    -   Writing tasks (theory essay, 1st paper draft)
+    -   Read the mandatory readings.
+
+    -   Active participation in class discussions.
+
+    -   Complete the weekly reading responses in time.
+
+    -   Complete the writing tasks (theory essay, 1st paper draft)
 
 -   Grade (Seminar paper / oral exam)
 
@@ -96,13 +104,19 @@ slide-number: true
 
 ## Active participation
 
--   Reading responses have to be uploaded each Sunday (end of day).
+-   Reading response submission each Tuesday (end of day).
 
     -   Miss no more than 2.
 
--   Submission of research question (31.5.2023)
+-   Writing tasks
 
--   Submission of first draft (750-1500 words, 5.7.2023)
+### Writing tasks
+
+|                    | Module 5                   | Module 8 (ungraded) | Module 8 (graded) |
+|------------------|-------------------|------------------|------------------|
+| mid-term           | theory essay               | theory essay        | theory essay      |
+| after last session | paper draft                | second essay        | paper draft       |
+| end of semester    | seminar paper OR oral exam | \-                  | seminar paper     |
 
 ## Module exam
 
@@ -116,7 +130,7 @@ slide-number: true
 
 -   Seminar papers will be developed throughout the course
 
--   Submit final paper until September 30st. (\>3.000 words)
+-   Submit final paper until September 30st. (\>3.000 words, excluding references, tables, title page)
 
 # Technicalities
 
@@ -163,6 +177,6 @@ Or search for the course ID: [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.
 #| echo: false
 #| message: false
 library(qrcode)
-plot(qr_code('https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/session-1/SocConspiracy1_Intro-slides.html#/title-slide'))
+plot(qr_code('https://philwunderlich.github.io/sociology_of_conspiracy_theories_s2023/docs/session-1/SocConspiracy1_Intro-slides.html#/title-slide'))
 
 ```

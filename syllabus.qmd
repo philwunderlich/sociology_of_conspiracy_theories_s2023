@@ -31,29 +31,49 @@ Regular participation credit
 
 -   Attend all class meetings.
 
--   Complete the mandatory readings before each session.
-
 Active participation credit
+
+-   Read the mandatory readings.
 
 -   Active participation in class discussions.
 
 -   Complete the weekly reading responses in time.
 
--   Complete the tasks listed in the course outline.
+-   Complete the writing tasks.
 
-## Seminar sessions
+Grade (Seminar paper / oral exam)
+
+## Regular participation
+
+### Seminar sessions
 
 Seminar sessions are hold weekly and in presence on campus. It is mandatory to attend the sessions.
 
 Importantly, make sure to *read the mandatory readings* before class and *take notes* on the reading. Readings are part of your regular participation requirements and are necessary to complete the active participation tasks.
 
-## Writing tasks
+## Active participation
 
--   One essay of min. 750 words is to be submitted mid-term
+### Reading responses
 
--   Students who don't need a module exam (i.e. Module 8 students who opt against an exam) need to submit a second essay of 750 words two weeks after the last class.
+-   After completing the mandatory readings, you need to submit a reading response on blackboard until Tuesday (end of day) before class.
 
--   Students who need to complete a module exam (graded or ungraded) have to submit a seminar paper proposal/draft two weeks after the last class session and have to hand in their seminar paper of 3.000 words at the end of the semester.
+-   Usually, you are asked to answer 2-4 brief questions on the reading.
+
+### Writing tasks
+
+-   One theory essay of min. 750 words is to be submitted mid-term
+
+-   Students who don't need a module exam (i.e. Module 8 students who opt against an exam) need to submit a second essay of 750-1500 words two weeks after the last class.
+
+-   Students who need to complete a module exam (graded or ungraded) have to submit a seminar paper proposal/draft (750-1500 words) two weeks after the last class session and have to hand in their seminar paper of 3.000 words at the end of the semester.
+
+|                    | Module 5                                 | Module 8 (ungraded)            | Module 8 (graded)                      |
+|--------------------|------------------------------------------|--------------------------------|----------------------------------------|
+| mid-term           | theory essay (750 words)                 | theory essay (750 words)       | theory essay (750 words)               |
+| after last session | seminar paper draft (750-1.500 words)    | second essay (750-1.500 words) | seminar paper draft (750-1.500 words)  |
+| end of semester    | seminar paper (3.000 words) OR oral exam | \-                             | seminar paper (3.000 words)            |
+
+: Writing tasks
 
 ## Seminar paper
 
