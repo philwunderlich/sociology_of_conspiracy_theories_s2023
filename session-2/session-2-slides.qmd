@@ -1,0 +1,17 @@
+---
+title: "Session 2 - Traditionall accounts"
+subtitle: "30228 - Sociology of conspiracy theories - summer-term 2023"
+author: "Philipp Wunderlich"
+date: 2023-04-20
+institute: "Institute of sociology, Freie Universität Berlin"
+format:
+  revealjs:
+    scrollable: true
+    preview-links: true
+editor: visual
+embed-resources: true
+slide-level: 3
+slide-number: true
+---
+
+{{< include ../assignments/questions_theory_essay.md >}}

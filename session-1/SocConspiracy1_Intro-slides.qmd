@@ -125,7 +125,7 @@ slide-number: true
 ### Writing tasks
 
 |                    | Module 5                   | Module 8 (ungraded) | Module 8 (graded) |
-|--------------------|----------------------------|---------------------|-------------------|
+|-----------------|----------------------|-----------------|-----------------|
 | mid-term           | theory essay               | theory essay        | theory essay      |
 | after last session | paper draft                | second essay        | paper draft       |
 | end of semester    | seminar paper OR oral exam | \-                  | seminar paper     |

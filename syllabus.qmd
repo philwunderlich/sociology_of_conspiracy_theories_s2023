@@ -67,11 +67,11 @@ Importantly, make sure to *read the mandatory readings* before class and *take n
 
 -   Students who need to complete a module exam (graded or ungraded) have to submit a seminar paper proposal/draft (750-1500 words) two weeks after the last class session and have to hand in their seminar paper of 3.000 words at the end of the semester.
 
-|                    | Module 5                                 | Module 8 (ungraded)            | Module 8 (graded)                      |
-|--------------------|------------------------------------------|--------------------------------|----------------------------------------|
-| mid-term           | theory essay (750 words)                 | theory essay (750 words)       | theory essay (750 words)               |
-| after last session | seminar paper draft (750-1.500 words)    | second essay (750-1.500 words) | seminar paper draft (750-1.500 words)  |
-| end of semester    | seminar paper (3.000 words) OR oral exam | \-                             | seminar paper (3.000 words)            |
+|                    | Module 5                                 | Module 8 (ungraded)            | Module 8 (graded)                     |
+|--------------------|------------------------------------------|--------------------------------|---------------------------------------|
+| mid-term           | theory essay (750 words)                 | theory essay (750 words)       | theory essay (750 words)              |
+| after last session | seminar paper draft (750-1.500 words)    | second essay (750-1.500 words) | seminar paper draft (750-1.500 words) |
+| end of semester    | seminar paper (3.000 words) OR oral exam | \-                             | seminar paper (3.000 words)           |
 
 : Writing tasks
 
