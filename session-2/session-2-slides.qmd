@@ -15,3 +15,83 @@ slide-number: true
 ---
 
 {{< include ../assignments/questions_theory_essay.md >}}
+
+::: notes
+-   Not: summary of facts / opinions!
+
+-   Develop own argumentation to answer question or support thesis!
+:::
+
+## Overarching questions
+
+-   How do conspiracy narratives correspond to socio-political conditions?
+
+-   What is the *paranoid style* of politics?
+
+\-\--
+
+### Section 1: The paranoid style 
+
+-   In which sense are conspiracy theories "paranoid"?
+
+. . .
+
+> \"the clinical paranoid sees the hostile and conspiratorial world in which he feels himself to be living as directed [specifically against him]{.underline}; whereas the spokesman of the paranoid style finds it [directed against a nation, a culture, a way of life]{.underline} whose fate affects not himself alone but millions of others.\" (Hofstadter, 1996, p. 4)
+
+------------------------------------------------------------------------
+
+-   Is political paranoia a *pathology*?
+
+-   How does it relate to truth?
+
+. . .
+
+> \"[Of course, the term "paranoid style" is pejorative]{.underline}, and it is meant to be; the paranoid style has a greater [affinity for bad causes]{.underline} than good. But nothing entirely prevents a sound pro­gram or a sound issue from being advocated in the paranoid style \[...\]. Style has to do with [the way in which ideas are believed and advocated]{.underline} rather than with the truth or falsity of their content.\" (Hofstadter, 1996, p. 5)
+
+. . .
+
+> A [distorted style]{.underline} is, then, a possible signal that may alert us to a [distorted judgement]{.underline}. (6)
+
+::: notes
+-   relationship with fascism is made.
+
+-   In the US only minority movements.
+:::
+
+### Section 2: Illuminati and Masonry
+
+-   Who were the illuminati?
+
+-   What drove fears of illuminati?
+
+-   What is the difference between the anti-illuminati and anti-masonry conspiracy movements?
+
+### Section 3:  Catholic plot against American values
+
+-   Which new socio-political developments drove the shift to anti-catholic conspiracy narratives?
+
+-   How does gender and sexuality tie in with the alleged catholic plot?
+
+### Section 4: "Contemporary\" Right-wing
+
+-   How do the conspiracy movements of the 50s and 60s differ from earlier examples?
+
+-   What are the key anti-government claims by right-wing actors?
+
+### Section 5: Basic elements of the paranoid style
+
+-   Absolute scope of conspiracy
+
+-   Apocalyptic narratives
+
+-   Manichean outlook
+
+-   The enemy shapes history
+
+    -   Enemy as projection of the self
+
+    -   The renegade
+
+-   Obsession with evidence and leaps of imagination
+
+-   struggles, catastrophes and a lack of political representation
