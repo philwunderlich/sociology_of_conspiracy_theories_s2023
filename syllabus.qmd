@@ -7,7 +7,6 @@ format:
   html: 
     toc: true
     toc-expand: 2
-  pdf: default
 editor: visual
 embed-resources: true
 ---

@@ -1,0 +1,99 @@
+---
+title: "Session 3 - Psychological motives"
+subtitle: "30228 - Sociology of conspiracy theories - summer-term 2023"
+author: "Philipp Wunderlich"
+date: 2023-05-04
+institute: "Institute of sociology, Freie Universität Berlin"
+format:
+  revealjs:
+    scrollable: true
+    preview-links: true
+embed-resources: true
+standalone: true
+slide-level: 3
+slide-number: true
+---
+
+## Overarching questions
+
+-   What motivates people to belief in CTs?
+-   Are these motives fulfilled?
+
+## Motives for beliefs?
+
+-   In which ways are "motives" relevant to what people think?
+
+. . . 
+
+> „(...) conspiracy theories allow people to understand the reasons underlying important events and circumstances in a way that addresses their broader motivational concerns to feel knowledgeable, safe and good about the self." (Douglas et al., 2020, p. 181)
+
+## Types of motives
+
+::: incremental
+- epistemic
+- existential
+- social
+:::
+
+::: notes
+Which types of motives are there? What to they mean?
+
+- epistemic: need for understanding, feel knowledgeable
+- existential: need to feel safe (control, security)
+- social: positive image of self and group.
+:::
+
+# Epistemic motives
+
+## Psychological processes {.incremental}
+
+
+- illusory pattern perception
+
+. . . 
+
+> „Social psychological research has shown that people are averse to the randomness of socio-political events and impose meaning on it cognitively by perceiving patterns in events, and making causal explanations, even when they do not exist (Zhao et al. 2014)“ (Douglas et al., 2020, p. 182)
+
+. . .
+
+- spurious correlations
+
+---
+
+::: incremental
+- proportionality bias
+
+- need for cognitive closure
+:::
+
+### Alternative information
+
+# Existential motives
+
+## Lack of control
+
+- How can conspiracy theories make you feel safe?
+
+> „(...) people who lack instrumental control may be able to find some compensatory sense of control by adopting conspiracy theories, because conspiracy theories offer people the opportunity to reject official narratives and feel that they possess some power by having an alternative perspective“ (Douglas et al., 2020, p. 183)
+
+## Attachment styles
+
+::: incremental
+- Attachment theory (early-childhood experiences)
+  - Attachment alleviates anxiety and increases security.
+  - Anxious attachment style.
+:::
+
+. . . 
+
+> „Green and Douglas (2018) found that anxious attachment style – which is characterised by a preoccupation with security and a tendency to exaggerate threats – significantly predicted conspiracy belief when the other two attachment styles did not. People may therefore adopt conspiracy theories in an attempt to cope with negative attachment experiences that stem from childhood and continue into adulthood.“ (Douglas et al., 2020, p. 183)
+
+
+# Social motives
+
+# Fulfillment 
+
+# _Group task_
+
+<!-- Vielleicht interventionen finden? Oder aus Zeitungsartikel Motive anwenden? -->
+

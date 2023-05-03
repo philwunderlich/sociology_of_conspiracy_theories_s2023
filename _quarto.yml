@@ -1,6 +1,9 @@
 project:
   title: "sociology_of_conspiracy_theories_s2023"
   output-dir: docs
+  type: website
 
+embed-resources: true
+standalone: true
 
 

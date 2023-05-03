@@ -1,8 +1,8 @@
 ---
-title: "Session 2 - Traditionall accounts"
+title: "Session 2 - Traditional accounts"
 subtitle: "30228 - Sociology of conspiracy theories - summer-term 2023"
 author: "Philipp Wunderlich"
-date: 2023-04-20
+date: 2023-04-27
 institute: "Institute of sociology, Freie Universität Berlin"
 format:
   revealjs:
@@ -24,29 +24,27 @@ slide-number: true
 
 ## Overarching questions
 
--   How do conspiracy narratives correspond to socio-political conditions?
-
 -   What is the *paranoid style* of politics?
+
+-   How do conspiracy narratives correspond to socio-political conditions?
 
 \-\--
 
-### Section 1: The paranoid style 
+### Section 1: The paranoid style
 
 -   In which sense are conspiracy theories "paranoid"?
 
 . . .
 
-> \"the clinical paranoid sees the hostile and conspiratorial world in which he feels himself to be living as directed [specifically against him]{.underline}; whereas the spokesman of the paranoid style finds it [directed against a nation, a culture, a way of life]{.underline} whose fate affects not himself alone but millions of others.\" (Hofstadter, 1996, p. 4)
+> "the clinical paranoid sees the hostile and conspiratorial world in which he feels himself to be living as directed [specifically against him]{.underline}; whereas the spokesman of the paranoid style finds it [directed against a nation, a culture, a way of life]{.underline} whose fate affects not himself alone but millions of others." (Hofstadter, 1996, p. 4)
 
 ------------------------------------------------------------------------
 
--   Is political paranoia a *pathology*?
-
--   How does it relate to truth?
+-   Is political paranoia a *pathology*? How does it relate to truth?
 
 . . .
 
-> \"[Of course, the term "paranoid style" is pejorative]{.underline}, and it is meant to be; the paranoid style has a greater [affinity for bad causes]{.underline} than good. But nothing entirely prevents a sound pro­gram or a sound issue from being advocated in the paranoid style \[...\]. Style has to do with [the way in which ideas are believed and advocated]{.underline} rather than with the truth or falsity of their content.\" (Hofstadter, 1996, p. 5)
+> "[Of course, the term "paranoid style" is pejorative]{.underline}, and it is meant to be; the paranoid style has a greater [affinity for bad causes]{.underline} than good. But nothing entirely prevents a sound pro­gram or a sound issue from being advocated in the paranoid style \[...\]. Style has to do with [the way in which ideas are believed and advocated]{.underline} rather than with the truth or falsity of their content." (Hofstadter, 1996, p. 5)
 
 . . .
 
@@ -60,26 +58,84 @@ slide-number: true
 
 ### Section 2: Illuminati and Masonry
 
+::: incremental
 -   Who were the illuminati?
-
 -   What drove fears of illuminati?
+:::
+
+. . .
+
+> "The association, he thought, was formed, "for the express purpose of ROOTING OUT ALL THE RELIGIOUS ESTABLISHMENTS, AND OVERTURNING ALL THE EXlST1NG GOVERNMENTS OF EUROPE."" (Hofstadter, 1996, p. 11)
+
+. . .
+
+> "He saw it as a libertine, anti-Christian movement, given to the corruption of women, the cultivation of sensual pleas­ures, and the violation of property rights." (Hofstadter, 1996, p. 11)
+
+::: notes
+-   Illuminati were a enlightenment rationalist group in conservative Bavaria.
+
+    -   They were
+
+-   French revolution as a major event that needs to be explained.
+:::
+
+------------------------------------------------------------------------
+
+<div>
 
 -   What is the difference between the anti-illuminati and anti-masonry conspiracy movements?
 
-### Section 3:  Catholic plot against American values
+</div>
 
+. . .
+
+> "Finally, at a moment when practically every alleged citadel of privilege in America was under democratic assault, Masonry was held to be a fraternity of the privileged classes, closing business opportunities and nearly monopolizing political offices," (Hofstadter, 1996, p. 17)
+
+------------------------------------------------------------------------
+
+-   What is the difference between the anti-illuminati and anti-masonry conspiracy movements?
+
+> „A further aspect of anti-Masonry that is at once arresting and puzzling to the modem mind is the obsession with the character of Masonic oaths. Oaths were considered to be [blasphemous]{.underline}, since they were profanations of a transaction with God, and [contrary to civil order]{.underline}, since they set up a secret pattern of loyalties inconsistent with normal civil obli­gations." (Hofstadter, 1996, p. 18)
+
+### Section 3: Catholic plot against American values
+
+::: incremental
 -   Which new socio-political developments drove the shift to anti-catholic conspiracy narratives?
+:::
 
+. . .
+
+> "Ignorant, ill-educated immigrants, incapable of undemanding the institu­tions of the United States, would supplement the efforts of wily Jesuit agents." (Hofstadter, 1996, p. 20)
+
+. . .
+
+> "A [great tide of immigration]{.underline}, hostile to free institutions, was sweeping in upon the country, subsidized and [sent by "the potentates of Europe,"]{.underline} multiplying tumult and violence, filling jails, crowd­ing poorhouses, quadrupling taxation, and sending increasing thousands of voters to"lay their inexperienced hand upon the helm of our power" (Hofstadter, 1996, p. 21)
+
+::: incremental
 -   How does gender and sexuality tie in with the alleged catholic plot?
+:::
 
-### Section 4: "Contemporary\" Right-wing
+### Section 4: "Contemporary" Right-wing
+
+::: incremental
+-   What are the key anti-government claims by right-wing actors during McCarthyism?
+
+<!-- -->
 
 -   How do the conspiracy movements of the 50s and 60s differ from earlier examples?
+:::
 
--   What are the key anti-government claims by right-wing actors?
+::: notes
+-   1\) New deal undermines free capitalism (state control); 2) government has been infiltrated by communists; 3) country (education and media) is infiltrated.
+
+-   In contrast to the anti-mason and anti-catholic movements, the contemporary right-wing feels that America has already been taken from them (repossession instead of defense is their goal) (Hofstadter, 1996, p. 23)
+
+-   "events since 1939" provide a rich theater for the imagination. (Hofstadter, 1996, p. 24)
+:::
 
 ### Section 5: Basic elements of the paranoid style
 
+::: incremental
 -   Absolute scope of conspiracy
 
 -   Apocalyptic narratives
@@ -95,3 +151,24 @@ slide-number: true
 -   Obsession with evidence and leaps of imagination
 
 -   struggles, catastrophes and a lack of political representation
+:::
+
+# Discussion
+
+## old vs. contemporary CTs
+
+(...) maybe the range and the number of people who believe in conspiracy theories is a lot larger now because of the globalization and the usage of social media. Compared to the past, I think conspiracy theories have become disseminated at a faster pace. Also how these theories are becoming more and more popular by the media can be a difference between two. 
+
+(...) popular conspiracy theories today struggle to identify who the persecuted party is. (...) The conspiracies described by Hofstadter had historical context and some reality-based argumentation even if it was exaggerated or misrepresnted. QANON and the Covid/Antivax conspiracies, many of them are based on online-fantasy then adjusted to fit whatever narative needs to be presented in the moment, which also makes them extremely difficult to keep track of, verify, or disprove. 
+
+For instance, in the vaccination conspiracies, the concern was not a certain way of life, it was rather human health which made it so universal and believable by massive groups.
+
+I don't think that the modern conspiracy theories are that different. The fear of strangers, loosing your privileges (...) is something that is common in a lot of conspiracy theories.
+
+## Pathologization
+
+-   paranoia is markedly *irrational*.
+
+    -   Should we treat believers in CTs as paranoid?
+
+    -   Which problems may arise?
