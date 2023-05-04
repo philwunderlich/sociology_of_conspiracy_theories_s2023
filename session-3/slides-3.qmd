@@ -47,7 +47,7 @@ Which types of motives are there? What to they mean?
 
 feeling knowledgeable
 
-## Psychological processes {.incremental}
+## Psychological processes (1/2)
 
 
 - what are _illusory pattern perception_ and _spurious correlations_?
@@ -56,15 +56,20 @@ feeling knowledgeable
 
 > „Social psychological research has shown that people are averse to the randomness of socio-political events and impose meaning on it cognitively by perceiving patterns in events, and making causal explanations, even when they do not exist (Zhao et al. 2014)“ (Douglas et al., 2020, p. 182)
 
----
+## Psychological processes (2/2)
 
 ::: incremental
-
 - _proportionality bias_
 - the need for _cognitive closure_
 :::
 
 ### Alternative information
+
+- Why don't people satisfy epistemic needs with sound research?
+
+. . . 
+
+> „Research also suggests that people are attracted to conspiracy theories when they lack the ability or motivation to seek information elsewhere.“ (Douglas et al., 2020, p. 182))
 
 # Existential motives
 
@@ -73,6 +78,8 @@ feeling safe and secure
 ## Lack of control
 
 - How can conspiracy theories make someone feel safe?
+
+. . .
 
 > „(...) people who lack instrumental control may be able to find some compensatory sense of control by adopting conspiracy theories, because conspiracy theories offer people the opportunity to reject official narratives and feel that they possess some power by having an alternative perspective“ (Douglas et al., 2020, p. 183)
 
@@ -115,9 +122,22 @@ feeling good about self
 
 # Emotions
 
+::: incremental
+- Why are emotions relevant to conspiracy beliefs?
+  - _system 1_ processes
+  - feelings of anxiety and lack of control
+:::
 
+. . .
+
+> „Indeed, Sunstein and Vermeule (2009) theorised that people turn to conspiracy theories to help justify emotional states such as fear and outrage, and to help rationalise and relieve their negative emotional responses to troublesome events“ (Douglas et al., 2020, p. 185)
 
 # Fulfillment 
+
+- Do conspiracy theories work to satisfy...
+  - ...epistemic motives?
+  - ...existential motives?
+  - ...social motives?
 
 ## Discuss in groups
 
