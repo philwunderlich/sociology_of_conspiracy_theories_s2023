@@ -23,24 +23,24 @@ slide-number: true
 
 -   In which ways are "motives" relevant to what people think?
 
-. . . 
+. . .
 
 > „(...) conspiracy theories allow people to understand the reasons underlying important events and circumstances in a way that addresses their broader motivational concerns to feel knowledgeable, safe and good about the self." (Douglas et al., 2020, p. 181)
 
 ## Types of motives
 
 ::: incremental
-- epistemic
-- existential
-- social
+-   epistemic
+-   existential
+-   social
 :::
 
 ::: notes
 Which types of motives are there? What to they mean?
 
-- epistemic: need for understanding, feel knowledgeable
-- existential: need to feel safe (control, security)
-- social: positive image of self and group.
+-   epistemic: need for understanding, feel knowledgeable
+-   existential: need to feel safe (control, security)
+-   social: positive image of self and group.
 :::
 
 # Epistemic motives
@@ -49,27 +49,26 @@ feeling knowledgeable
 
 ## Psychological processes (1/2)
 
+-   what are *illusory pattern perception* and *spurious correlations*?
 
-- what are _illusory pattern perception_ and _spurious correlations_?
+. . .
 
-. . . 
-
-> „Social psychological research has shown that people are averse to the randomness of socio-political events and impose meaning on it cognitively by perceiving patterns in events, and making causal explanations, even when they do not exist (Zhao et al. 2014)“ (Douglas et al., 2020, p. 182)
+> „Social psychological research has shown that people are averse to the randomness of socio-political events and impose meaning on it cognitively by perceiving patterns in events, and making causal explanations, even when they do not exist (Zhao et al. 2014)" (Douglas et al., 2020, p. 182)
 
 ## Psychological processes (2/2)
 
 ::: incremental
-- _proportionality bias_
-- the need for _cognitive closure_
+-   *proportionality bias*
+-   the need for *cognitive closure*
 :::
 
 ### Alternative information
 
-- Why don't people satisfy epistemic needs with sound research?
+-   Why don't people satisfy epistemic needs with sound research?
 
-. . . 
+. . .
 
-> „Research also suggests that people are attracted to conspiracy theories when they lack the ability or motivation to seek information elsewhere.“ (Douglas et al., 2020, p. 182))
+> „Research also suggests that people are attracted to conspiracy theories when they lack the ability or motivation to seek information elsewhere." (Douglas et al., 2020, p. 182))
 
 # Existential motives
 
@@ -77,81 +76,79 @@ feeling safe and secure
 
 ## Lack of control
 
-- How can conspiracy theories make someone feel safe?
+-   How can conspiracy theories make someone feel safe?
 
 . . .
 
-> „(...) people who lack instrumental control may be able to find some compensatory sense of control by adopting conspiracy theories, because conspiracy theories offer people the opportunity to reject official narratives and feel that they possess some power by having an alternative perspective“ (Douglas et al., 2020, p. 183)
+> „(...) people who lack instrumental control may be able to find some compensatory sense of control by adopting conspiracy theories, because conspiracy theories offer people the opportunity to reject official narratives and feel that they possess some power by having an alternative perspective" (Douglas et al., 2020, p. 183)
 
 ## Attachment styles
 
 ::: incremental
-- Attachment theory (early-childhood experiences)
-  - Attachment alleviates anxiety and increases security.
-  - Anxious attachment style.
+-   Attachment theory (early-childhood experiences)
+    -   Attachment alleviates anxiety and increases security.
+    -   Anxious attachment style.
 :::
 
-. . . 
+. . .
 
-> „(...) [An] anxious attachment style – which is characterised by a preoccupation with security and a tendency to exaggerate threats – significantly predicted conspiracy belief (...). People may therefore adopt conspiracy theories in an attempt to cope with negative attachment experiences (...)“ (Douglas et al., 2020, p. 183)
-
+> „(...) \[An\] anxious attachment style -- which is characterised by a preoccupation with security and a tendency to exaggerate threats -- significantly predicted conspiracy belief (...). People may therefore adopt conspiracy theories in an attempt to cope with negative attachment experiences (...)" (Douglas et al., 2020, p. 183)
 
 # Social motives
 
 feeling good about self
 
----
+------------------------------------------------------------------------
 
-- How do conspiracy beliefs allow for a positive self-image?
+-   How do conspiracy beliefs allow for a positive self-image?
 
-. . . 
+. . .
 
-> (...) conspiracy theories valorise the self and one’s ingroups by allowing blame for negative outcomes to be attributed to others. Thus, they may help to uphold the image of the self and the ingroup as _competent and moral_ but as sabotaged by powerful and corrupt others (Cichocka et al. 2016)
+> (...) conspiracy theories valorise the self and one's ingroups by allowing blame for negative outcomes to be attributed to others. Thus, they may help to uphold the image of the self and the ingroup as *competent and moral* but as sabotaged by powerful and corrupt others (Cichocka et al. 2016)
 
----
+------------------------------------------------------------------------
 
 ::: incremental
-- which groups are most susceptible to the social motives for conspiracy beliefs?
-  - minorities (experiences of ostracism)
-  - low status groups
-  - political opposition 
-- collective narcissism
-- need for uniqueness
+-   which groups are most susceptible to the social motives for conspiracy beliefs?
+    -   minorities (experiences of ostracism)
+    -   low status groups
+    -   political opposition
+-   collective narcissism
+-   need for uniqueness
 :::
-
 
 # Emotions
 
 ::: incremental
-- Why are emotions relevant to conspiracy beliefs?
-  - _system 1_ processes
-  - feelings of anxiety and lack of control
+-   Why are emotions relevant to conspiracy beliefs?
+    -   *system 1* processes
+    -   feelings of anxiety and lack of control
 :::
 
 . . .
 
-> „Indeed, Sunstein and Vermeule (2009) theorised that people turn to conspiracy theories to help justify emotional states such as fear and outrage, and to help rationalise and relieve their negative emotional responses to troublesome events“ (Douglas et al., 2020, p. 185)
+> „Indeed, Sunstein and Vermeule (2009) theorised that people turn to conspiracy theories to help justify emotional states such as fear and outrage, and to help rationalise and relieve their negative emotional responses to troublesome events" (Douglas et al., 2020, p. 185)
 
-# Fulfillment 
+# Fulfillment
 
-- Do conspiracy theories work to satisfy...
-  - ...epistemic motives?
-  - ...existential motives?
-  - ...social motives?
+-   Do conspiracy theories work to satisfy...
+    -   ...epistemic motives?
+    -   ...existential motives?
+    -   ...social motives?
 
 ## Discuss in groups
 
 <!-- Vielleicht interventionen finden? Oder aus Zeitungsartikel Motive anwenden? -->
 
 <figure>
-    <figcaption><a href="https://www.npr.org/2021/01/15/957371294/how-qanon-like-conspiracy-theories-tear-families-apart">How QAnon-Like Conspiracy Theories Tear Families Apart (NPR)</a></figcaption>
-    <audio style="width:100%; padding-top: 1rem" controls src="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/01/20210115_atc_how_qanon-like_conspiracy_theories_tear_families_apart.mp3">
-    </audio>
+
+<figcaption><a href="https://www.npr.org/2021/01/15/957371294/how-qanon-like-conspiracy-theories-tear-families-apart">How QAnon-Like Conspiracy Theories Tear Families Apart (NPR)</a></figcaption>
+
+<audio style="width:100%; padding-top: 1rem" controls src="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/01/20210115_atc_how_qanon-like_conspiracy_theories_tear_families_apart.mp3">
+
+</audio>
+
 </figure>
 
-- Are emotional and psychological needs fulfilled by conspiracy beliefs? If not, why do people still resort to those?
-- From a sociological perspective: What are suitable strategies  to reduce conspiracy beliefs (based on the reading)?
-
-
-
-
+-   Are emotional and psychological needs fulfilled by conspiracy beliefs? If not, why do people still resort to those?
+-   From a sociological perspective: What are suitable strategies to reduce conspiracy beliefs (based on the reading)?
