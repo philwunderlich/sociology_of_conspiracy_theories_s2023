@@ -45,34 +45,34 @@ Which types of motives are there? What to they mean?
 
 # Epistemic motives
 
+feeling knowledgeable
+
 ## Psychological processes {.incremental}
 
 
-- illusory pattern perception
+- what are _illusory pattern perception_ and _spurious correlations_?
 
 . . . 
 
 > „Social psychological research has shown that people are averse to the randomness of socio-political events and impose meaning on it cognitively by perceiving patterns in events, and making causal explanations, even when they do not exist (Zhao et al. 2014)“ (Douglas et al., 2020, p. 182)
 
-. . .
-
-- spurious correlations
-
 ---
 
 ::: incremental
-- proportionality bias
 
-- need for cognitive closure
+- _proportionality bias_
+- the need for _cognitive closure_
 :::
 
 ### Alternative information
 
 # Existential motives
 
+feeling safe and secure
+
 ## Lack of control
 
-- How can conspiracy theories make you feel safe?
+- How can conspiracy theories make someone feel safe?
 
 > „(...) people who lack instrumental control may be able to find some compensatory sense of control by adopting conspiracy theories, because conspiracy theories offer people the opportunity to reject official narratives and feel that they possess some power by having an alternative perspective“ (Douglas et al., 2020, p. 183)
 
@@ -86,14 +86,52 @@ Which types of motives are there? What to they mean?
 
 . . . 
 
-> „Green and Douglas (2018) found that anxious attachment style – which is characterised by a preoccupation with security and a tendency to exaggerate threats – significantly predicted conspiracy belief when the other two attachment styles did not. People may therefore adopt conspiracy theories in an attempt to cope with negative attachment experiences that stem from childhood and continue into adulthood.“ (Douglas et al., 2020, p. 183)
+> „Green and Douglas (2018) found that anxious attachment style – which is characterised by a preoccupation with security and a tendency to exaggerate threats – significantly predicted conspiracy belief (...). People may therefore adopt conspiracy theories in an attempt to cope with negative attachment experiences that stem from childhood and continue into adulthood.“ (Douglas et al., 2020, p. 183)
 
 
 # Social motives
 
+feeling good about self
+
+---
+
+- How do conspiracy beliefs allow for a positive self-image?
+
+. . . 
+
+> (...) conspiracy theories valorise the self and one’s ingroups by allowing blame for negative outcomes to be attributed to others. Thus, they may help to uphold the image of the self and the ingroup as _competent and moral_ but as sabotaged by powerful and corrupt others (Cichocka et al. 2016)
+
+---
+
+::: incremental
+- which groups are most susceptible to the social motives for conspiracy beliefs?
+  - minorities (experiences of ostracism)
+  - low status groups
+  - political opposition 
+- collective narcissism
+- need for uniqueness
+:::
+
+
+# Emotions
+
+
+
 # Fulfillment 
 
-# _Group task_
+## Discuss in groups
 
 <!-- Vielleicht interventionen finden? Oder aus Zeitungsartikel Motive anwenden? -->
+
+<figure>
+    <figcaption><a href="https://www.npr.org/2021/01/15/957371294/how-qanon-like-conspiracy-theories-tear-families-apart">How QAnon-Like Conspiracy Theories Tear Families Apart (NPR)</a></figcaption>
+    <audio style="width:100%; padding-top: 1rem" controls src="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2021/01/20210115_atc_how_qanon-like_conspiracy_theories_tear_families_apart.mp3">
+    </audio>
+</figure>
+
+- Are emotional and psychological needs fulfilled by conspiracy beliefs? If not, why do people still resort to those?
+- From a sociological perspective: What are suitable strategies  to reduce conspiracy beliefs (based on the reading)?
+
+
+
 
