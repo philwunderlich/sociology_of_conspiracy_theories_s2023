@@ -3,8 +3,7 @@ title: "Seminar: Sociology of Conspiracy Theories"
 subtitle: "summer term 2023"
 author:
 - name: Philipp Wunderlich
-    affiliations:
-      - name: Freie Universität Berlin, Institute of Sociology
+  affiliation: Freie Universität Berlin, Institute of Sociology
 ---
 
 # Course
