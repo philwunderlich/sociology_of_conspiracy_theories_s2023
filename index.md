@@ -1,3 +1,8 @@
+---
+title: "Seminar: Sociology of Conspiracy Theories"
+subtitle: "summer term 2023"
+---
+
 # Course
 
 [Syllabus](syllabus.html)
