@@ -1,0 +1,137 @@
+---
+title: "Session 4 - Socio-structural predictors"
+subtitle: "30228 - Sociology of conspiracy theories - summer-term 2023"
+author: "Philipp Wunderlich"
+date: 2023-05-11
+institute: "Institute of sociology, Freie Universität Berlin"
+format:
+  revealjs:
+    scrollable: true
+embed-resources: true
+standalone: true
+slide-level: 3
+slide-number: true
+---
+
+## Session outline
+
+1.  [Recap]{style="color: red"}
+2.  Today's reading
+3.  Application
+4.  Summary
+
+# Recap
+
+::: incremental
+-   Epistemological motives?
+
+-   Existential motives?
+
+-   Social motives?
+
+-   Are motives fulfilled?
+
+-   What are strategies against conspiracy beliefs?
+:::
+
+# Today's reading
+
+1.  Recap
+2.  [Today's reading]{style="color:red"}
+3.  Application
+4.  Summary
+
+## Concepts
+
+::: incremental
+-   Conspiracy theory
+
+-   Conspiracy belief
+
+-   Conspiracy thinking
+
+-   Conspiracy theorist
+:::
+
+## Conspiracy thinking vs. conspiracy beliefs
+
+> "Conspiracy thinking leads to specific conspiracy beliefs, but conspiracy thinking and conspiracy beliefs will be correlated with different demographics" (Smallpage et al., 2020, p. 265)
+
+## Demographic predictors
+
+::: incremental
+-   Education
+
+-   Income
+
+-   Partisanship and ideology
+
+-   Gender, race, age?
+:::
+
+## Cross-country comparisons
+
+![](images/Bildschirm%C2%ADfoto%202023-05-11%20um%2011.11.21.png){.r-stretch}
+
+## Ideology and partisanship
+
+![](images/Bildschirm%C2%ADfoto%202023-05-11%20um%2011.22.23.png)
+
+# Application
+
+1.  Recap
+2.  Today's reading
+3.  [Application]{style="color:red"}
+4.  Summary
+
+## Established predictors
+
+::: notes
+list established predictors
+:::
+
+::: incremental
+-   How do you expect the established predictors to affect COVID-19 conspiracy beliefs?
+:::
+
+## Additional predictors
+
+::: incremental
+-   Thinking back to the last sessions (Hofstadter, psychological motives): **Which other factors may predict COVID-19 conspiracy beliefs?**
+:::
+
+## Group-task
+
+Imagine we would like to measure the effect of income and education on COVID-19 conspiracy beliefs.
+
+. . .
+
+Task: Create a measurement scale for COVID-19 conspiracy beliefs
+
+## Example from {.smaller}
+
+Inwieweit halten Sie die folgenden Aussagen für richtig oder falsch, wenn Sie an das Coronavirus denken? (Matrix-Frage, randomisierte Antwort-Items, 1-5 scale)
+
+82. Der Impfstoff gegen das Coronavirus wurde bereits entwickelt, aber wird von großen Pharmaunternehmen zurückgehalten.
+83. Der Impfstoff gegen das Coronavirus wurde bereits entwickelt, aber die Regierung hält ihn zurück.
+84. Der Impfstoff gegen das Coronavirus wird derzeit entwickelt und es gibt Testimpfstoffe, die nicht verwendet werden können, bevor sie ausgiebig getestet wurden.
+85. Das Coronavirus ist eine Biowaffe, die absichtlich entwickelt wurde, um Menschen zu schaden.
+86. Das Coronavirus ist eine natürliche Infektionskrankheit, die sich weltweit verbreitet und eine Pandemie ausgelöst hat.
+
+------------------------------------------------------------------------
+
+82. Das Coronavirus wurde im Zuge eines geheimen US-Militärversuchs aus Versehen freigesetzt.
+83. Das Coronavirus kann durch in China hergestellte Produkte übertragen werden.
+84. Bill Gates will die Menschheit zwangsimpfen, um damit viel Geld zu verdienen.
+85. Die neuen 5G-Sendemasten sind für die Verbreitung des Coronavirus verantwortlich.
+
+# Summary
+
+1.  Recap
+2.  Today's reading
+3.  Application
+4.  [Summary]{style="color:red"}
+
+## What have we learnt?
+
+-   Key take-aways from today's session?
