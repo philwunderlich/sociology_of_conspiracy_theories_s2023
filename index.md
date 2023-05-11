@@ -15,6 +15,7 @@ author:
 -   [Session 1 - Introduction](session-1/SocConspiracy1_Intro-slides.html)
 -   [Session 2 - Traditional accounts](session-2/session-2-slides.html)
 -   [Session 3 - Psychological motives](session-3/slides-3.html)
+-   [Session 4 - Socio-structural predictors](session-4/slides-4.html)
 
 ## Assignment materials
 

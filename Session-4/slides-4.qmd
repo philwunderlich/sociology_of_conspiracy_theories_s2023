@@ -13,9 +13,9 @@ slide-level: 3
 slide-number: true
 ---
 
-## Session outline
+# Session outline
 
-1.  [Recap]{style="color: red"}
+1.  Recap
 2.  Today's reading
 3.  Application
 4.  Summary
@@ -40,6 +40,14 @@ slide-number: true
 2.  [Today's reading]{style="color:red"}
 3.  Application
 4.  Summary
+
+# Key questions
+
+::: incremental
+-   How can we measure belief in conspiracy theories?
+
+-   Which demographic factors predict belief in conspiracy theories?
+:::
 
 ## Concepts
 
@@ -108,22 +116,45 @@ Imagine we would like to measure the effect of income and education on COVID-19 
 
 Task: Create a measurement scale for COVID-19 conspiracy beliefs
 
-## Example from {.smaller}
+### Group results:
 
-Inwieweit halten Sie die folgenden Aussagen für richtig oder falsch, wenn Sie an das Coronavirus denken? (Matrix-Frage, randomisierte Antwort-Items, 1-5 scale)
+::: columns
+::: {.column width="25%"}
+![Group 1](images/qrcode_cryptpad.fr.png)
+:::
 
-82. Der Impfstoff gegen das Coronavirus wurde bereits entwickelt, aber wird von großen Pharmaunternehmen zurückgehalten.
-83. Der Impfstoff gegen das Coronavirus wurde bereits entwickelt, aber die Regierung hält ihn zurück.
-84. Der Impfstoff gegen das Coronavirus wird derzeit entwickelt und es gibt Testimpfstoffe, die nicht verwendet werden können, bevor sie ausgiebig getestet wurden.
-85. Das Coronavirus ist eine Biowaffe, die absichtlich entwickelt wurde, um Menschen zu schaden.
-86. Das Coronavirus ist eine natürliche Infektionskrankheit, die sich weltweit verbreitet und eine Pandemie ausgelöst hat.
+::: {.column width="25%"}
+![Group 2](images/qrcode_cryptpad.fr%20(1).png)
+:::
+
+::: {.column width="25%"}
+![Group 3](images/qrcode_cryptpad.fr%20(2).png)
+:::
+
+::: {.column width="25%"}
+
+![Group 4](images/qrcode_cryptpad.fr%20(3).png)
+:::
+:::
+
+### Example: Austrian Corona Panel Project {.smaller}
+
+<!--[^1]: Kittel, Bernhard; Kritzinger, Sylvia; Boomgaarden, Hajo; Prainsack, Barbara; Eberl, Jakob-Moritz; Kalleitner, Fabian; Lebernegg, Noëlle S.; Partheymüller, Julia; Plescia, Carolina; Schiestl, David W.; Schlogl, Lukas, 2020, "Austrian Corona Panel Project (OA edition)", <https://doi.org/10.11587/P5YJ0O>, AUSSDA, V4, UNF:6:4EGij2bcZsu3GpsxWLa5/w== \[fileUNF\]-->
+
+To which degree do you think the following claims are true or false, when thinking of the coronavirus? (1 very likely false - 5 very likely true)
+
+-   The vaccine against coronavirus was already developed but is held back by large pharmaceutical corporations.
+-   The vaccine against coronavirus was already developed but is held back by the government.
+-   The vaccine against coronavirus is in development and there are test-vaccines that cannot be used before being thoroughly tested.
+-   The coronavirus is a bioweapon that was intentionally devised to hurt humans.
+-   The coronavirus is a natural infectious disease that has spread across the world and caused a pandemic.
 
 ------------------------------------------------------------------------
 
-82. Das Coronavirus wurde im Zuge eines geheimen US-Militärversuchs aus Versehen freigesetzt.
-83. Das Coronavirus kann durch in China hergestellte Produkte übertragen werden.
-84. Bill Gates will die Menschheit zwangsimpfen, um damit viel Geld zu verdienen.
-85. Die neuen 5G-Sendemasten sind für die Verbreitung des Coronavirus verantwortlich.
+-   The coronavirus was spread by accident in the context of a secret U.S.-military experiment.
+-   The coronavirus can be spread through products that were produced in China.
+-   Bill Gates wants to forcibly vaccinate the population in order to earn a lot of money.
+-   The new 5G cell-phone transmitters are responsible for the spread of the coronavirus.
 
 # Summary
 
