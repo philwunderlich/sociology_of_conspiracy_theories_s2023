@@ -64,13 +64,26 @@ $(\star)$ Hofstadter, R. (1996). *The paranoid style in American politics, and o
 -   Questions for theory essays are presented
 :::
 
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-2/session-2-slides.html)
+:::
+
 ### 3) Micro-level: Psychological motives (2023-05-04)
 
 $(\star)$ Douglas, K. M., Cichocka, A., & Sutton, R. M. (2020). Motivations, Emotions and Belief in Conspiracy Theories. In *Routledge Handbook of Conspiracy Theories*. Routledge.
 
+
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-3/slides-3.html)
+:::
+
 ### 4) Macro-level: Structural predictors (2023-05-11)
 
 $(\star)$ Smallpage, S. M., Drochon, H., Uscinski, J. E., & Klofstad, C. (2020). Who are the Conspiracy Theorists?: Demographics and conspiracy theories. In Routledge Handbook of Conspiracy Theories. Routledge.
+
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-4/slides-4.html)
+:::
 
 ### 5) Cultural perspectives: Identification and labeling (2023-05-25)
 
