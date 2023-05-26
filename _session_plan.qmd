@@ -95,6 +95,10 @@ Harambam, J., & Aupers, S. (2017). 'I Am Not a Conspiracy Theorist': Relational 
 -   Mandatory reading selection
 :::
 
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-5/slides-5.pdf)
+:::
+
 ::: {.callout-important .content-visible unless-format="revealjs"}
 ## Assignment
 

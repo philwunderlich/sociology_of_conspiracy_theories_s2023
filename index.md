@@ -16,6 +16,7 @@ author:
 -   [Session 2 - Traditional accounts](session-2/session-2-slides.html)
 -   [Session 3 - Psychological motives](session-3/slides-3.html)
 -   [Session 4 - Socio-structural predictors](session-4/slides-4.html)
+-   [Session 5 - Cultural perspecitves](session-5/slides-5.pdf)
 
 ## Assignment materials
 
