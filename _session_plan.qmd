@@ -121,6 +121,10 @@ The theory essay should address on of the [essay questions](assignments/question
 -   Input on how to provide feedback
 :::
 
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-6/slides-6.pdf)
+:::
+
 ::: callout-note
 ## Task
 
@@ -147,6 +151,10 @@ Mass media and online misinformation:
 
 -   Rooke, M. (2021). Alternative media framing of COVID-19 risks. Current Sociology, 69(4), 584--602. <https://doi.org/10.1177/00113921211006115>
 
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-7/slides-7.pdf)
+:::
+
 ### 8) Alt-right conspiracy theories / Populism (2023-06-15)
 
 The alt-right and QAnon:
@@ -161,7 +169,9 @@ Political ideology and populism:
 
 -   van der Linden, S., Panagopoulos, C., Azevedo, F., & Jost, J. T. (2021). The Paranoid Style in American Politics Revisited: An Ideological Asymmetry in Conspiratorial Thinking. Political Psychology, 42(1), 23--51. <https://doi.org/10.1111/pops.12681>
 
-
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-8/slides-8.pdf)
+:::
 
 ------------------------------------------------------------------------
 
@@ -182,6 +192,10 @@ Post-soviet cases:
 -   $(\star)$ Yablokov, I. (2020). Conspiracy theories in Putin's russia---The case of the 'new World order.' In M. Butter & P. Knight (Eds.), Routledge Handbook of Conspiracy Theories (pp. 582--595). Routledge. <https://doi.org/10.4324/9780429452734>
 
 -   Ortmann, S., & Heathershaw, J. (2012). Conspiracy Theories in the Post-Soviet Space. The Russian Review, 71(4), 551--564. https://doi.org/10.1111/j.1467-9434.2012.00668.x
+
+::: {.content-visible unless-format="revealjs"}
+[Slides](session-9/slides-9.pdf)
+:::
 
 ### 10) Gender and Sexuality / Antisemitism (2023-06-29)
 
