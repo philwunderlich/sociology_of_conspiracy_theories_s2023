@@ -4,6 +4,10 @@ subtitle: "Advanced seminar, summer term 2023"
 date: 2023-04-19
 author: Philipp Wunderlich
 format: 
+  pdf:
+    documentclass: scrartcl
+    margin-left: 30mm
+    margin-right: 30mm 
   html: 
     toc: true
     toc-expand: 2
@@ -16,7 +20,7 @@ Module: M8 / M5\
 Contact: [philipp.wunderlich\@fu-berlin.de](mailto:philipp.wunderlich@fu-berlin.de)\
 Time: Thursdays, 14:00 - 16:00\
 Room: Garystr.55/301\
-Blackboard: [POLSOZ_V\_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
+Blackboard: [POLSOZ_V_30228_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_182833_1 "Sociology of Conspiracy Theories POLSOZ_V_30228_23S")
 
 # Course Description
 
@@ -67,7 +71,7 @@ Importantly, make sure to *read the mandatory readings* before class and *take n
 -   Students who need to complete a module exam (graded or ungraded) have to submit a seminar paper proposal/draft (750-1500 words) two weeks after the last class session and have to hand in their seminar paper of 3.000 words at the end of the semester.
 
 |                    | Module 5                                 | Module 8 (ungraded)            | Module 8 (graded)                     |
-|--------------------|------------------------------------------|--------------------------------|---------------------------------------|
+|----------------|---------------------|----------------|-------------------|
 | mid-term           | theory essay (750 words)                 | theory essay (750 words)       | theory essay (750 words)              |
 | after last session | seminar paper draft (750-1.500 words)    | second essay (750-1.500 words) | seminar paper draft (750-1.500 words) |
 | end of semester    | seminar paper (3.000 words) OR oral exam | \-                             | seminar paper (3.000 words)           |
