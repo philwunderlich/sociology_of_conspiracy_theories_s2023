@@ -1,3 +1,7 @@
+---
+format: pdf
+---
+
 # Session plan
 
 ::: callout-note
@@ -38,7 +42,7 @@ Butter, M., & Knight, P. (Eds.). (2020). Routledge Handbook of Conspiracy Theori
 
 -   Requirements
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](/session-1/SocConspiracy1_Intro-slides.html)
 :::
 
@@ -64,7 +68,7 @@ $(\star)$ Hofstadter, R. (1996). *The paranoid style in American politics, and o
 -   Questions for theory essays are presented
 :::
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-2/session-2-slides.html)
 :::
 
@@ -73,7 +77,7 @@ $(\star)$ Hofstadter, R. (1996). *The paranoid style in American politics, and o
 $(\star)$ Douglas, K. M., Cichocka, A., & Sutton, R. M. (2020). Motivations, Emotions and Belief in Conspiracy Theories. In *Routledge Handbook of Conspiracy Theories*. Routledge.
 
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-3/slides-3.html)
 :::
 
@@ -81,7 +85,7 @@ $(\star)$ Douglas, K. M., Cichocka, A., & Sutton, R. M. (2020). Motivations, Emo
 
 $(\star)$ Smallpage, S. M., Drochon, H., Uscinski, J. E., & Klofstad, C. (2020). Who are the Conspiracy Theorists?: Demographics and conspiracy theories. In Routledge Handbook of Conspiracy Theories. Routledge.
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-4/slides-4.html)
 :::
 
@@ -95,11 +99,11 @@ Harambam, J., & Aupers, S. (2017). 'I Am Not a Conspiracy Theorist': Relational 
 -   Mandatory reading selection
 :::
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-5/slides-5.pdf)
 :::
 
-::: {.callout-important .content-visible unless-format="revealjs"}
+::: {.callout-important .content-visible when-format="html"}
 ## Assignment
 
 Post 750 words essay to discussion forum!
@@ -121,7 +125,7 @@ The theory essay should address on of the [essay questions](assignments/question
 -   Input on how to provide feedback
 :::
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-6/slides-6.pdf)
 :::
 
@@ -151,7 +155,7 @@ Mass media and online misinformation:
 
 -   Rooke, M. (2021). Alternative media framing of COVID-19 risks. Current Sociology, 69(4), 584--602. <https://doi.org/10.1177/00113921211006115>
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-7/slides-7.pdf)
 :::
 
@@ -169,7 +173,7 @@ Political ideology and populism:
 
 -   van der Linden, S., Panagopoulos, C., Azevedo, F., & Jost, J. T. (2021). The Paranoid Style in American Politics Revisited: An Ideological Asymmetry in Conspiratorial Thinking. Political Psychology, 42(1), 23--51. <https://doi.org/10.1111/pops.12681>
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-8/slides-8.pdf)
 :::
 
@@ -193,7 +197,7 @@ Post-soviet cases:
 
 -   Ortmann, S., & Heathershaw, J. (2012). Conspiracy Theories in the Post-Soviet Space. The Russian Review, 71(4), 551--564. https://doi.org/10.1111/j.1467-9434.2012.00668.x
 
-::: {.content-visible unless-format="revealjs"}
+::: {.content-visible when-format="html"}
 [Slides](session-9/slides-9.pdf)
 :::
 
